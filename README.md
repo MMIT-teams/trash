@@ -1,0 +1,1 @@
+#Default template styles for UI-Kit
